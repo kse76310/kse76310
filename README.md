@@ -2,9 +2,9 @@
 <br>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kse76310@naver.com&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=kse76310&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kse76310@naver.com&layout=compact&langs_count=7&theme=merko"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kse76310&layout=compact&langs_count=7&theme=merko"/>
 </p>
 
 <br>
