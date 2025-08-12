@@ -6,7 +6,7 @@
 
 <!-- 타이핑 효과 -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Nanum+Gothic&size=30&duration=4000&pause=1000&color=00E7FF&center=true&vCenter=true&width=600&lines=Hello!+I'm+Yeong👋;Welcome+to+My+GitHub!;Embedded+Systems+%26+AI+Developer;Always+Learning+%26+Exploring!" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Nanum+Gothic&size=30&duration=4000&pause=1000&color=00E7FF&center=true&vCenter=true&width=600&lines=Hello!+I'm+KIM👋;Welcome+to+My+GitHub!;Embedded+Systems+%26+AI+Developer;Always+Learning+%26+Exploring!" alt="Typing SVG"/>
 </p>
 
 <!-- 반짝이는 효과 -->
